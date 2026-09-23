@@ -1,0 +1,16 @@
+.git
+.vercel
+.env*
+.DS_Store
+.venv
+__pycache__
+*.bak
+source.zip
+assets/iPhone_Duo_Star_White.usdz
+previews/inner.portfolio.png
+previews/outer.portfolio.png
+previews/navigation.mp4
+previews/og-cover.png
+previews/og-fold.png
+previews/outer.png
+previews/inner.png

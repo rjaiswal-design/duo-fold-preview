@@ -1,0 +1,19 @@
+.vercel
+.env*
+.DS_Store
+/assets/
+/.venv/
+__pycache__/
+
+/source.zip
+
+# Upstream portfolio captures (third-party content, not ours to redistribute)
+/previews/*.portfolio.png
+/previews/navigation.mp4
+/previews/og-cover.png
+/previews/og-fold.png
+
+# Superseded PNG sources; the app loads the .webp next to them
+/previews/inner.png
+/previews/outer.png
+*.bak
